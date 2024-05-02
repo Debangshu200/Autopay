@@ -1,1 +1,2 @@
 # Autopay
+In the digital revolution in India, we can see that people are using less cash, and using their digital wallet more. So, I see that Auto wale bhiya are not using upi that much, bcoz it delays other passengers(bcoz the passenger will first left the auto, then scan and pay. so the user has to open the app, then it will auto cut the money, the auto wale have small screen which will show them the payment amount
